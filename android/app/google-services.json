@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207885752437",
+    "firebase_url": "https://ctselab06.firebaseio.com",
+    "project_id": "ctselab06",
+    "storage_bucket": "ctselab06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207885752437:android:6efcada9dc34f4e236803c",
+        "android_client_info": {
+          "package_name": "com.it17152938.lab6.IT17152938"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207885752437-2hrbpon6abfmh9s5abl5t7m9r642jl93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.it17152938.lab6.IT17152938",
+            "certificate_hash": "d39d0733aec67f77d19a16dc22fa630502608683"
+          }
+        },
+        {
+          "client_id": "207885752437-p6dbe92n6breq8e7sf097s4imisg45qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArbOVU9zGEUkrzCqSDFehvDpqmmzmQiOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207885752437-p6dbe92n6breq8e7sf097s4imisg45qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
